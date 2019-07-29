@@ -2,3 +2,16 @@
 
 A repository demonstrating a PWA + Workbox + Webpack + Babel application
 
+### Clone this repo and install the dependencies with yarn or npm
+```shell
+npm install
+or
+yarn install
+```
+
+### To run it just use start script
+```shell
+npm run start
+or
+yarn start
+```
