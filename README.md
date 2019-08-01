@@ -15,3 +15,7 @@ npm run start
 or
 yarn start
 ```
+
+# Article
+
+https://medium.com/@joaopaulocmarra/pwa-with-workbox-webpack-babel-8291bcd438ba
